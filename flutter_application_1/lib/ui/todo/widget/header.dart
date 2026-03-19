@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class ProgressCard extends StatelessWidget {
-  const ProgressCard({super.key});
+class Header extends StatelessWidget {
+  const Header({super.key});
 
   @override
   Widget build(BuildContext context) {
